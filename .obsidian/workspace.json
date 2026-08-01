@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/20260802001.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -185,22 +185,21 @@
   },
   "active": "3b61269d3fe13f44",
   "lastOpenFiles": [
+    "content/posts/2026-08-02-my-new-post.md",
+    "content/posts/20260802001.md",
+    "content/posts/first-post.md",
+    "content/posts/20260801003.md",
     "public/posts/photo-test-second/index.html",
     "public/posts/photo-test-second",
     "public/posts/20260802001/index.html",
     "public/posts/20260802001",
     "public/posts/未命名/index.html",
     "public/posts/未命名",
-    "content/posts/20260801003.md",
-    "content/posts/20260802001.md",
     "archetypes/obsidian-templates/blog-post.md",
     "public/posts/photo-test/index.html",
     "public/posts/photo-test",
-    "content/posts/2026-08-02-my-new-post.md",
     "archetypes/obsidian-templates/blog-post.md.sb-56406c39-aw7m8M",
     "public/tags/测试/page/1/index.html",
-    "public/tags/测试/page/1",
-    "content/posts/first-post.md",
     "archetypes/obsidian-templates/default.md"
   ]
 }

@@ -3,6 +3,8 @@ languageCode = "zh-CN"
 title = "Words And Wild"  # 可以改成你喜欢的标题
 theme = "PaperMod"
 homeMode = "posts"
+[params]
+  disableSpecial1stPost = true
 # 基础导航菜单（PaperMod 需要这个才会显示顶部导航）
 [menu]
   [[menu.main]]

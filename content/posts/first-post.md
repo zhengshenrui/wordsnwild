@@ -1,9 +1,12 @@
 ---
-title: "Hello World：俊俊的博客正式启航"
+title: 俊俊的博客正式启航
 date: 2026-08-01T21:30:00+08:00
 draft: false
-tags: ["随笔", "起步"]
-categories: ["生活"]
+tags:
+  - 随笔
+  - 起步
+categories:
+  - 生活
 ---
 
 ## 欢迎来到 Words And Wild
