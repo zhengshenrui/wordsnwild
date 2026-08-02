@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/20260802001.md",
-                "mode": "preview",
+                "file": "content/posts/slug.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260802001"
+              "title": "slug"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/20260802001.md",
+                "file": "content/posts/2026-08-02-my-new-post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "20260802001 的反向链接列表"
+              "title": "2026-08-02-my-new-post 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/20260802001.md",
+                "file": "content/posts/2026-08-02-my-new-post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "20260802001 的出链列表"
+              "title": "2026-08-02-my-new-post 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/20260802001.md",
+                "file": "content/posts/2026-08-02-my-new-post.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20260802001 的大纲"
+              "title": "2026-08-02-my-new-post 的大纲"
             }
           }
         ]
@@ -185,7 +185,10 @@
   },
   "active": "3b61269d3fe13f44",
   "lastOpenFiles": [
+    "public/posts/testslug/index.html",
+    "public/posts/testslug",
     "content/posts/2026-08-02-my-new-post.md",
+    "content/posts/slug.md",
     "content/posts/20260802001.md",
     "content/posts/first-post.md",
     "content/posts/20260801003.md",
@@ -199,7 +202,6 @@
     "public/posts/photo-test/index.html",
     "public/posts/photo-test",
     "archetypes/obsidian-templates/blog-post.md.sb-56406c39-aw7m8M",
-    "public/tags/测试/page/1/index.html",
     "archetypes/obsidian-templates/default.md"
   ]
 }
