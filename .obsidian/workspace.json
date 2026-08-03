@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/slug.md",
+                "file": "content/posts/20260803gemini-pet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "slug"
+              "title": "20260803gemini-pet"
             }
           }
         ]
@@ -185,23 +185,24 @@
   },
   "active": "3b61269d3fe13f44",
   "lastOpenFiles": [
-    "public/posts/testslug/index.html",
-    "public/posts/testslug",
+    "public/tags/英语/page/1/index.html",
+    "public/tags/英语/page/1",
+    "public/tags/英语/page",
+    "public/tags/英语/index.xml",
+    "public/tags/英语/index.html",
+    "public/tags/英语",
+    "public/tags/pet/page/1/index.html",
+    "public/tags/pet/page/1",
+    "public/tags/pet/page",
+    "public/tags/pet/index.xml",
+    "public/tags/pet/index.html",
     "content/posts/2026-08-02-my-new-post.md",
+    "content/posts/20260803gemini-pet.md",
     "content/posts/slug.md",
-    "content/posts/20260802001.md",
     "content/posts/first-post.md",
+    "content/posts/20260802001.md",
     "content/posts/20260801003.md",
-    "public/posts/photo-test-second/index.html",
-    "public/posts/photo-test-second",
-    "public/posts/20260802001/index.html",
-    "public/posts/20260802001",
-    "public/posts/未命名/index.html",
-    "public/posts/未命名",
     "archetypes/obsidian-templates/blog-post.md",
-    "public/posts/photo-test/index.html",
-    "public/posts/photo-test",
-    "archetypes/obsidian-templates/blog-post.md.sb-56406c39-aw7m8M",
     "archetypes/obsidian-templates/default.md"
   ]
 }
