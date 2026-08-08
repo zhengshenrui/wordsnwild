@@ -11,10 +11,14 @@
             "id": "44be155483a4f843",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/20260808ai-grammar.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "20260808ai-grammar"
             }
           }
         ]
@@ -183,6 +187,9 @@
   },
   "active": "44be155483a4f843",
   "lastOpenFiles": [
+    "public/posts/ai-grammar/index.html",
+    "public/posts/ai-grammar",
+    "content/posts/20260808ai-grammar.md",
     "content/posts/20260803gemini-pet.md",
     "content/posts/2026-08-02-my-new-post.md",
     "public/tags/英语/page/1/index.html",
@@ -194,7 +201,6 @@
     "public/tags/pet/page/1/index.html",
     "public/tags/pet/page/1",
     "public/tags/pet/page",
-    "public/tags/pet/index.xml",
     "content/posts/slug.md",
     "content/posts/first-post.md",
     "content/posts/20260802001.md",
